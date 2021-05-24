@@ -1,1 +1,1 @@
-This was a simple projec of "Text Editor"
+This was a simple project of "Text Editor"
